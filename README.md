@@ -41,12 +41,13 @@ To run ```locally```, it is assumed that you have python installed on your syste
 ### Web-app 
 Web-app creted by using flask, Html, Css ,JavaScript, Bootstrap look like - Once you enter text in the given input box and hit predict button , It predict weather the given text is ham or spam.
 - Input your text 
-<img src="../master/static/img/webapp.png" alt="Img1"/>
+
+![image](https://github.com/ChetasShree/AI-PROJECT-6-SEM-Sentiment-Analysis-Using-Deep-Learning/assets/75165587/1233cf98-2ab3-486f-b39e-6c7a96900491)
 
 ## Result
 The output of this model is a __flask web-app__ which predict the  ```Sentiment```.
-<img src="../master/static/img/sentiment.png" alt="Img1"/>
 
+![image](https://github.com/ChetasShree/AI-PROJECT-6-SEM-Sentiment-Analysis-Using-Deep-Learning/assets/75165587/818d7e62-1b4e-4738-94ad-4e72d2bede96)
 
 
 
