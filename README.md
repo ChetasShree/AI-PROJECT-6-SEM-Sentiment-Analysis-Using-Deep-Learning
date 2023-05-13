@@ -48,14 +48,5 @@ The output of this model is a __flask web-app__ which predict the  ```Sentiment`
 <img src="../master/static/img/sentiment.png" alt="Img1"/>
 
 
-## Author
-<b>Vikram singh</b>
 
-- Twitter: https://twitter.com/vikramvinay1
-- Linkdin: https://www.linkedin.com/in/vikram-singh-ai-venture/
-- Facebook: https://www.facebook.com/AIVentureO/https://www.quora.com/profile/Vinay-Vikram-8
-- Quora: https://www.quora.com/profile/Vinay-Vikram-8
 
-### [Visit AiVenture](https://www.youtube.com/channel/UCpAA7n7LcTmGBuNVpqOv-3w)
-
-                                        -----Feel Free to contact us if you have any question-----
